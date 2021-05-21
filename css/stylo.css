@@ -1,3 +1,10 @@
 body{
     background-color: silver;
 }
+@media (min-width: 777px) { 
+    .alto{
+        height: 100vh;
+    }
+
+}
+
